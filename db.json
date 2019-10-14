@@ -1,0 +1,136 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Gấu Teddy Khăn Tim",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/10/teddy-khan-tim-min-1A-300x300.jpg",
+      "price": 895000
+    },
+    {
+      "id": 2,
+      "name": "Gấu Teddy Nâu",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2018/02/teddy-nau-nhap-2m-8A-300x300.jpg",
+      "price": 1300000
+    },
+    {
+      "id": 3,
+      "name": "Gấu Teddy Socola",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2018/03/teddy-socola-1M7-2MA-300x300.jpg",
+      "price": 500000
+    },
+    {
+      "id": 4,
+      "name": "Gấu Teddy Baby",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2018/03/teddy-logo-baby-12-300x300.jpg",
+      "price": 2100000
+    },
+    {
+      "id": 5,
+      "name": "Teddy Áo Đen Love",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/09/teddy-ao-den-love-A1-300x300.jpg",
+      "price": 1700000
+    },
+    {
+      "id": 6,
+      "name": "Teddy Khăn Tim Màu",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/02/teddy-khan-tim-mau-1-1-300x300.jpg",
+      "price": 1200000
+    },
+    {
+      "id": 7,
+      "name": "Gấu Bông Teddy",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/02/teddy-x-A-300x300.jpg",
+      "price": 1650000
+    },
+    {
+      "id": 8,
+      "name": "Teddy Len Chân Gấu",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2017/10/teddy-ao-len-so7-3A-300x300.jpg",
+      "price": 1300000
+    },
+    {
+      "id": 9,
+      "name": "Teddy Ôm Tim Lệch",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/10/teddy-tim-lech-1M6A-300x300.jpg",
+      "price": 795000
+    },
+    {
+      "id": 10,
+      "name": "Gấu Teddy Nhung",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/10/teddy-nhung-1m6-7A-300x300.jpg",
+      "price": 1200000
+    },
+    {
+      "id": 11,
+      "name": "Teddy Head Tales",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2017/10/teddy-head-tales-19-300x300.jpg",
+      "price": 1050000
+    },
+    {
+      "id": 12,
+      "name": "Teddy Angel Hồng",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2018/02/teddy-angel-hong-1M6-300x300.jpg",
+      "price": 1200000
+    },
+    {
+      "id": 13,
+      "name": "Teddy Đen Xù",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2018/02/TEDDY-DEN-XU-1-300x300.jpg",
+      "price": 955000
+    },
+    {
+      "id": 14,
+      "name": "Teddy Nơ Lụa",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/09/teddy-no-lua-1m6-A-300x300.jpg",
+      "price": 1250000
+    },
+    {
+      "id": 15,
+      "name": "Teddy Ôm Hoa Hồng",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/09/no-om-hoa-hong-8-1-300x300.jpg",
+      "price": 1200000
+    },
+    {
+      "id": 16,
+      "name": "Teddy Bự",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2019/10/ted-bu-A-300x300.jpg",
+      "price": 1800000
+    },
+    {
+      "id": 17,
+      "name": "Brown Đại Bự",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2018/10/brown-dai-bu-300x300.jpg",
+      "price": 1600000
+    },
+    {
+      "id": 18,
+      "name": "Teddy Love U",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2017/05/teddy-love-u1-300x300.jpg",
+      "price": 955000
+    },
+    {
+      "id": 19,
+      "name": "Gấu Brown",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2017/05/gau-brown3m-300x300.jpg",
+      "price": 990000
+    },
+    {
+      "id": 20,
+      "name": "Gấu Teddy",
+      "avatar": "https://gaubongonline.vn/wp-content/uploads/2016/10/gau-bong-mau-300x300.jpg",
+      "price": 650000
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "email": "abc",
+      "password": "123"
+    },
+    {
+      "email": "admin",
+      "password": "admin",
+      "id": 2
+    }
+  ]
+}
